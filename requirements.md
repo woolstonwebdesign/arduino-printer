@@ -15,6 +15,8 @@ These two devices together will operate as a bench-top printing solution for mer
 
 The content printed is not relevent to the project because the arduino device will connect to a specific page on the merchant's online store and simply render whatever content is shown on that page. That way, the printer does not need to interpret anything and the arduino simply passes ascii text to the printer. All formatting etc will be done on the merchant's online store page.
 
+The arduino and printer are two separate devices connected via cables. Both devices require power. Ultimately, the two devices can stand separately but an all-in-one solution would be most sought after.
+
 ## Device Specifications
 ### Arduino
 This device must allow the following functionality:
