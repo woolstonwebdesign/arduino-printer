@@ -8,8 +8,8 @@
 
 ## Project Description
 This project will create a device which is made up of two components
-- arduino-styled device
-- thermal printer
+* arduino-styled device
+* thermal printer
 
 These two devices together will operate as a bench-top printing solution for merchants who have an online store. These merchants will generally be in the business of producing goods quickly where an order is given and the product is required as quickly as possible while the buyer either waits for the product, arrives in-store to pickup the product or the product is delivered to them.
 
@@ -18,10 +18,10 @@ The content printed is not relevent to the project because the arduino device wi
 ## Device Specifications
 ### Arduino
 This device must allow the following functionality:
-- internet connectivity via ethernet and/or wifi
-- allow a user to customise the destination URL that it will hit
-- allow a user to customise the interval of time between URL polls. For example, some merchants may want to check for orders every 3 minutes where others may only require 30 minute checks
-- hit the destination URL repeatedly using the configurable interval. This interval should be a positive integer indicating the interval in minutes
+* internet connectivity via ethernet and/or wifi
+* allow a user to customise the destination URL that it will hit
+* allow a user to customise the interval of time between URL polls. For example, some merchants may want to check for orders every 3 minutes where others may only require 30 minute checks
+* hit the destination URL repeatedly using the configurable interval. This interval should be a positive integer indicating the interval in minutes
 
 ### Printer
 This device should be a thermal printer so that there are minimal replacement parts.
