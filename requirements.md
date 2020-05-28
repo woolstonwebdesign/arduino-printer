@@ -1,10 +1,10 @@
 # Requirements and Specifications for Arduino Printer
 ## Table of Contents
-- [Project Description][Project Description]
-- [Device Specifications][Device Specifications]
--- [Arduino][Arduino]
--- [Printer][Printer]
-- [Data Workflow][Data Workflow]
+[Project Description][## Project Description]
+[Device Specifications][## Device Specifications]
+[Arduino][### Arduino]
+[Printer][### Printer]
+[Data Workflow][## Data Workflow]
 
 ## Project Description
 This project will create a device which is made up of two components
